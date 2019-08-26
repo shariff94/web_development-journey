@@ -1,0 +1,25 @@
+body{
+  color: #414141; /*dark grey*/
+  background-color: #EEEEEE; /*Light gray*/
+  font-size: 20px;
+}
+
+h1,h2,h3,h4,h5,h6{
+  font-family: "Helvetica", "Arial", sans-serif;
+}
+a{
+  text-decoration: none;
+}
+ul{
+  list-style-type: square;
+}
+ol{
+  list-style: upper-latin;
+}
+h1{
+  font-size: 2em;
+}
+
+h2{
+  font-size: 1.5em;
+}
